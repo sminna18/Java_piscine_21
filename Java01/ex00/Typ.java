@@ -1,0 +1,5 @@
+
+enum Typ{
+    DEBITS,
+    CREDITS
+}
